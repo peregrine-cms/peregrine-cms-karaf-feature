@@ -8,7 +8,7 @@ See [Apache Karaf Quickstart](https://karaf.apache.org/manual/latest/quick-start
 
 ## Install Apache Sling Feature
 
-See [Running Apache Sling on Apache Karaf](Running Apache Sling on Apache Karaf)
+See [Running Apache Sling on Apache Karaf](https://sling.apache.org/documentation/karaf.html)
 
 ## Install Peregrine Feature
 
